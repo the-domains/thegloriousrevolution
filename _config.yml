@@ -1,19 +1,4 @@
-name: thegloriousrevolution
-favicon: null
-layout_spectrum: 0.1703884149901569
 typography_spectrum: 0.9967257692478597
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,20 @@ color:
   lightness: 0.865846854634583
   saturation: 0.4271750736515969
   rhythmicContrast: 0.1097039335872978
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.1703884149901569
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: thegloriousrevolution
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: The Glorious Revolution
 purpose: []
