@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Jack Karen Curious
+  email: karencurious@icloud.com
+  url: 'https://thegrid.ai/thegloriousrevolution/'
 name: thegloriousrevolution
 cta:
   domain: null
